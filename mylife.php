@@ -53,9 +53,9 @@ echo $commentClass;
         <div class="layui-col-md9 layui-col-lg9">
             <div class="about-life">
                 <div class="t-w">
-                <div class="t-u"><img height="120" src="<?php $this->options->themeUrl('img/blog.jpg'); ?>"></div>
+                <div class="t-u"><img height="120" src="https://fnote-1255606503.cos.ap-shanghai.myqcloud.com/avatar.jpeg"></div>
                 <div class="t-t">
-                    <h1>宁采陈<span><i class="layui-icon">&#xe635;</i>全栈工程师</span></h1>
+                    <h1>默语<span><i class="layui-icon">&#xe635;</i>全栈工程师</span></h1>
                     <div class="t-d layui-hide-xs">
                         <span class="typed"></span>
                     </div>
@@ -98,7 +98,7 @@ echo $commentClass;
 <script type="text/javascript" src="https://cdn.bootcss.com/typed.js/2.0.5/typed.js"></script>
 <script>
     var typed = new Typed(".t-d .typed", {
-        strings: ["请在mylife.php文件里修改此页信息"],
+        strings: ["但行好事，莫问前程。"],
         typeSpeed:30 // 速度
     });
 </script>

@@ -44,11 +44,9 @@
             </div>
     </div>
     <div class="link">
-        <h3 class="title-sidebar"><i class="layui-icon">&#xe64c;</i>友情链接<a style="float: right;color: #666;" href="#">申请</a></h3>
+        <h3 class="title-sidebar"><i class="layui-icon">&#xe64c;</i>其他链接</h3>
         <div>
-            <a class="layui-btn layui-btn-xs layui-btn-primary" href="https://www.echo.so" title='宁采陈个人博客0' target="_blank">宁采陈博客0</a>
-            <a class="layui-btn layui-btn-xs layui-btn-primary" href="https://www.echo.so" title='宁采陈个人博客1' target="_blank">宁采陈博客1</a>
-            <a class="layui-btn layui-btn-xs layui-btn-primary" href="https://www.echo.so" title='宁采陈个人博客2' target="_blank">宁采陈博客2</a>
+            <a class="layui-btn layui-btn-xs layui-btn-primary" href="https://www.zhihu.com/people/http3" title='知乎' target="_blank">知乎</a>
         </div>
     </div>
 </div>
